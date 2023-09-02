@@ -1,3 +1,5 @@
+https://www.coursera.org/learn/robotics-flight/home/info
+
 Week 1 - Introduction to Aerial Robotics:
 Welcome to Week 1! In this week, you will be introduced to the exciting field of Unmanned Aerial Robotics (UAVs) and quadrotors in particular. 
 You will learn about their basic mechanics and control strategies and realize how careful component selection and design affect the vehicles' performance. 
@@ -28,3 +30,5 @@ Welcome to Week 4! So far, we have gone over the basics of developing linear con
 In this last week of the course, we will discuss some more advanced material on how to enable quadrotors to perform more agile maneuvers and to operate autonomously in teams.
 Note that the last programming assignment on quadrotor control in three dimensions uses material from the previous weeks. 
 It is strongly recommended to start the assignment as soon as possible.
+
+ 
