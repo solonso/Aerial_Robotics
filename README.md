@@ -1,2 +1,2 @@
 # Aerial_Robotics
-This a cousera course under Robotics specialization by University of Pennsylvania taught by Vijay Kumar
+This course is part of the Robotics specialization on Coursera, offered by the University of Pennsylvania and taught by Vijay Kumar.
