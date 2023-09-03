@@ -12,9 +12,4 @@ Check out controller.m
 # Assignment 3: 3-D Quadrotor Control Solution
 After defining the trajectory points in traj_generator.m, and implementing a controller function in control.m, optimal tracking of the Line and Helix trajectories was achieved.
 
-# Certification
-Name:                    Robotics: Aerial Robotics
-Issuing Organization:    Coursera
-Issue Date:              August 2023
-Credential ID:           FTJNQHHVKKZQ
-Credential URL:          https://www.coursera.org/account/accomplishments/certificate/FTJNQHHVKKZQ
+
