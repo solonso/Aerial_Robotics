@@ -1,3 +1,4 @@
+%%Quadrotor Plot
 classdef QuadPlot < handle
     %QUADPLOT Visualization class for quad
 
