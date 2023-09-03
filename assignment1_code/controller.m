@@ -1,3 +1,4 @@
+%% This is my own assignment on 1-D Quadrotor Control with PD Controller
 function [ u ] = pd_controller(~, s, s_des, params)
 %PD_CONTROLLER  PD controller for the height
 %
